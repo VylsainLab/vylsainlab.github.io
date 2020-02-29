@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sylvain Melin and I am a graphics programmer. I use a camera to capture the beauty of our world and a computer to try to recreate it.  
+What I like about my job and especially the graphics field is that with basic hardware, some knowledge in physics and maths, you can create pretty much what you want, from a water drop refracting light on a windshield to a full real-time solar system.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I spent 7 years modelling Earth for a professional flight simulator manufacturer. I am now looking forward to expend my skills in 3D and join a team of passionate people with an ambitious project.
 
-What else do you need?
+My resume :
 
-### my history
+### Contact
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to contact me at [melin.sylvain@gmail.com](mailto:melin.sylvain@gmail.com)
+
