@@ -20,6 +20,7 @@ url: "https://vylsainlab.com"
 
 # List of links in the navigation bar
 navbar-links:
+  Blog : "blog"
   Projects:
     - Flight Sim IG: "SimulatorIG"
     - OrbitEarth: "OrbitEarth"
@@ -93,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "VylsainLab.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "vylsainlab.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -161,6 +162,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog/:num/"
 
 kramdown:
   input: GFM
