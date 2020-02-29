@@ -5,9 +5,13 @@ layout: null
 @import url("pygment_highlights.css");
 
 /* --- General --- */
-
+html, body {
+  height: 100%;
+}
 body {
   font-family: 'Lora', 'Times New Roman', serif;
+  display: flex;
+  flex-direction: column;
   font-size: 16px;
   color: #DEDEDE;
   position: relative;
@@ -64,6 +68,10 @@ hr.small {
 
 .hideme {
   display: none;
+}
+
+.content {
+  flex: 1 0 auto;
 }
 
 ::-moz-selection {
