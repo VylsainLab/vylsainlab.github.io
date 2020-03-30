@@ -20,7 +20,7 @@ url: "https://vylsainlab.com"
 
 # List of links in the navigation bar
 navbar-links:
-  Blog : "blog"
+  #Blog : "blog"
   Projects:
     - Flight Sim IG: "SimulatorIG"
     - OrbitEarth: "OrbitEarth"
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "vylsainlab.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "vylsainlab.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -253,6 +253,6 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
+  - jemoji
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

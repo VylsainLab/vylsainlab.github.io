@@ -30,6 +30,8 @@ I will write a dedicated blog post to give a more technical insight of such deve
 
 ![AL42](../img/AL42.jpg "AL42")
 
+![SSR](../img/VFRVS_SSR.png "SSR")
+
 ![VFRVS0](../img/VFRVS0.jpg "VFRVS0")
 
 ![VFRVS1](../img/VFRVS1.jpg "VFRVS1")
