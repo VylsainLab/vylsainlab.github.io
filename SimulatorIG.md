@@ -9,9 +9,7 @@ title: Flight sim IG
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zePK5w488uI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-Among many other tasks, my main role as a software engineer at Alsim Simulators was to design and implement our flight simulator's image generator (IG). This is quite a specific field in that the final product is designed for professional pilots training rather than entertainment activities.
-This page will list the main features of this engine and show a few renders. 
-I will write a dedicated blog post to give a more technical insight of such developments.
+Among many other tasks, my main role as a software engineer at Alsim Simulators was to design and implement our flight simulator's image generator (IG).
 
 ## Features
 
