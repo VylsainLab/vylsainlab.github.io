@@ -20,8 +20,11 @@ DemoLab serve that purpose and allowed me to tweak my PBR workflow and develop s
 * ImGui based interface
 * Procedural snow material
 * Animated water surface
+* Volumetric rendering
 
 ## Gallery
+
+![DL00](../img/DL00.jpg "DL00")
 
 ![DL0](../img/DL0.jpg "DL0")
 
