@@ -6,7 +6,7 @@ title: Demo Lab
 ![DL9](../img/DL9.jpg "DL9")
 
 When trying to implement new rendering techniques, it's always easier to have a simple project ready to be modified and configured.
-DemoLab serve that purpose and allowed me to tweak my PBR workflow and develop some procedural shaders like snow and water. An ImGui interface allows me to adjust parameters at runtime.
+DemoLab serves that purpose and allowed me to tweak my PBR workflow and develop some procedural shaders like snow and water. An ImGui interface allows me to adjust parameters at runtime.
 
 ## Features
 
