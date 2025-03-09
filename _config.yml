@@ -22,6 +22,7 @@ url: "https://vylsainlab.com"
 navbar-links:
   #Blog : "blog"
   Projects:
+    - Mirage 2000D: "M2000D"
     - Flight Sim IG: "SimulatorIG"
     - OrbitEarth: "OrbitEarth"
     - DemoLab: "DemoLab"
